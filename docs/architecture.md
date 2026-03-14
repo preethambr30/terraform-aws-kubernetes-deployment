@@ -92,17 +92,35 @@ Routes external traffic to the service.
 
 ---
 
-## Containerization
+Containerization
 
-The application is containerized using Docker and hosted on Docker Hub.
+The application is containerized using Docker and published to Docker Hub.
 
-Image used:
+Docker image used:
 
-```
 preethambr/devops-dashboard
-```
+Infrastructure Screenshots
+EC2 Instances
 
----
+
+
+
+Application Load Balancer
+
+
+
+
+Kubernetes Pods
+
+
+
+
+Kubernetes Service
+
+
+
+
+Application UI
 
 ## Benefits of This Architecture
 
