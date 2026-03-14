@@ -96,9 +96,6 @@ Containerization
 
 The application is containerized using Docker and published to Docker Hub.
 
-Docker image used:
-
-preethambr/devops-dashboard
 Infrastructure Screenshots
 EC2 Instances
 
