@@ -20,10 +20,6 @@ resource "aws_subnet" "subnet2" {
   map_public_ip_on_launch = true
 }
 
-resource "aws_internet_gateway" "igw" {
-  vpc_id = aws_vpc.devops_vpc.id
-}
-
 resource "aws_route_table" "rt" {
   vpc_id = aws_vpc.devops_vpc.id
 }
