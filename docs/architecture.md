@@ -97,27 +97,30 @@ Containerization
 The application is containerized using Docker and published to Docker Hub.
 
 Infrastructure Screenshots
+
 EC2 Instances
 
-
+![EC2 Instances](images/ec2-instances.png)
 
 
 Application Load Balancer
 
-
+![Load Balancer](images/load-balancer.png)
 
 
 Kubernetes Pods
 
-
+![Kubernetes Pods](images/kubernetes-pods.png)
 
 
 Kubernetes Service
 
-
+![Kubernetes Service](images/kubernetes-service.png)
 
 
 Application UI
+
+![Application UI](images/application-ui.png)
 
 ## Benefits of This Architecture
 
